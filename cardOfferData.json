@@ -1,6 +1,0 @@
-[
-      { "name": "razorpay", "cardType": "visa", "charges": 2.5 },
-      { "name": "juspay", "cardType": "mastercard", "charges": 1.8 },
-      { "name": "ccavenue", "cardType": "rupay", "charges": 2.0 },
-      { "name": "paypal", "cardType": "visa", "charges": 1.5 }
-]
