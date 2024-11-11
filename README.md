@@ -15,7 +15,3 @@ This project is a Node.js API for retrieving the payment aggregator with the min
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/payment-aggregator-api.git
-   cd payment-aggregator-api
